@@ -7,6 +7,11 @@ Raspberry Pi 5   8GB   €196.43
 https://www.amazon.com.be/-/en/Raspberry-Pi-SC1112-5-8Gb/dp/B0CK2FCG1K/ref=asc_df_B0CK2FCG1K?mcid=88dded9821c13fde942da8cc8925acd6&hvadid=712694243216&hvpos=&hvnetw=g&hvrand=436525492620024166&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197127&hvtargid=pla-2271214026452&psc=1&hvocijid=436525492620024166-B0CK2FCG1K-&hvexpln=0&language=en_GB
 
 
+Micro SD Card   32GB   €11.52
+
+https://www.amazon.com.be/-/nl/Philips-Micro-SDHC-kaart-klasse-inbegrepen-adapter/dp/B00I3W1Y2K/ref=sr_1_15?adgrpid=140207900297&hvadid=627885641466&hvdev=c&hvexpln=0&hvlocphy=9196639&hvnetw=g&hvocijid=11858584119392819386--&hvqmt=e&hvrand=11858584119392819386&hvtargid=kwd-4249729252&hydadcr=20267_2270692&mcid=427d309fc62e36ac8bf44f7b269379ea&sr=8-15
+
+
 Camera (*4)   1080P   w/microphone   360° Rotation   €11.99/piece   €47.96/4piece
 
 https://www.amazon.com.be/-/en/Vinmooog-Streaming-Equipment-Microphone-Conferences/dp/B0BG1YJWFN/ref=asc_df_B0BG1YJWFN?mcid=4ebcca2a92673329a316ad74f414593b&hvadid=712698032381&hvpos=&hvnetw=g&hvrand=245494044650850897&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197127&hvtargid=pla-1880522923639&psc=1&hvocijid=245494044650850897-B0BG1YJWFN-&hvexpln=0&language=en_GB
@@ -16,4 +21,4 @@ Powered USB Hub   4 ports   €12.99
 
 https://www.amazon.com.be/-/en/Individual-Switches-Keyboard-Adapter-Included/dp/B0GV3DCWXM/ref=asc_df_B0GV3DCWXM?mcid=23ec7c18b9233b42bd5b502633a66a6e&hvadid=813171572369&hvpos=&hvnetw=g&hvrand=7596593519538770801&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197127&hvtargid=pla-2478689159710&psc=1&hvocijid=7596593519538770801-B0GV3DCWXM-&hvexpln=0&language=en_GB
 
-total price   €257.38
+total price   €268.90
