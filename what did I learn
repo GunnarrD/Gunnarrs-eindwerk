@@ -1,0 +1,53 @@
+This project requires Flask and OpenCV for Python, I did research on how to use these using geeksforgeeks tutorials.
+
+Flask
+
+@app.route(/video)
+def functie()
+  *code*
+  return Response(*response*)
+this will execute the function the moment you visit localhost/video, you will see what is in the Response()
+
+
+OpenCV
+
+camera = cv2.VideoCapture(0)
+dit is jouw camera
+
+.isOpened()
+returned als de camera geopend is of niet
+
+succes, frame = camera.read()
+zal een frame capturen met de camera, succes is een boolean die aangeeft als de framecapture geslaagd is of niet
+
+succes, buffer = cv2.imencode('.jpg', frame)
+zet de frame om naar jpg formaat
+
+
+Python
+
+frameBytes = buffer.tobytes
+zet buffer om naar rauwe bytes
+
+yield(*waarde*)
+is lijk een return maar het terminate de functie niet en zal een stroom data geven indeplaats van 1 pakket data
+
+mimetype = 'multipart/x-mixed-replace; boundary=frame'
+mimetype is de soort inhoud dat de browser zal ontvangen, multipart/x-mixed-replace is voor videostreams, boundary=frame is om de frames te kunnen onderscheiden in de data stream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
