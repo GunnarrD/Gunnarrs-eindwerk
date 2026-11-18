@@ -5,6 +5,7 @@ RasPi will host a webserver using Flask where the video feed of the four cameras
 Windows app will be a WinUI 3 app and have an easy to use graphical user interface.
 
 Libraries used: Flask (webserver)
+
                 OpenCV (frame captures)
                 Ultralytics (object detection)
 exampleCode is a simplefied version of the finalized python code the Raspberry Pi 5 will be running.
